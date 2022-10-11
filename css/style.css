@@ -201,7 +201,7 @@ p {
     h2 {
         font-family: "Montserrat", sans-serif;
         font-size: 3rem;
-        /* font-weight: normal; */
+        font-weight: bold;
         color: #66BFBF;
         padding-bottom: 10px;
     }
