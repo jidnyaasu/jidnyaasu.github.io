@@ -122,6 +122,14 @@ p {
     text-align: left;
 }
 
+@media (max-width: 1000px) {
+    .project-row {
+        width: auto;
+        margin: 50px auto;
+        text-align: left;
+    }
+}
+
 .btn {
   background: #11cdd4;
   background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
